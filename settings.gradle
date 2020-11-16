@@ -1,0 +1,3 @@
+include ':upnp'
+include ':app'
+rootProject.name = "ssdpclient"
